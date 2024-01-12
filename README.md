@@ -18,9 +18,9 @@
   -  [Mind maps](https://miro.com/app/board/uXjVMWozn5I=/)
   -  [Баг-репорты](https://rykovart.youtrack.cloud/issues)
 - Коллекция в Postman 
-  -  [Чек-лист API(проверка ручек)](https://docs.google.com/spreadsheets/d/1z_H5FV5XegcPmAJvHJn74Y_HbRhTWp6hM2OuOq9OSBM/edit?usp=sharing)
+  -  [Чек-лист API (проверка ручек)](https://docs.google.com/spreadsheets/d/1z_H5FV5XegcPmAJvHJn74Y_HbRhTWp6hM2OuOq9OSBM/edit?usp=sharing)
 - SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
+  -  [Таксопарк](https://docs.google.com/document/d/1__uW-Zj4RSmo2P23qJc5ExtXQU-aAPbNEbAFk9GtRPs/edit?usp=sharing)
   
 ### 📁 Тестовая документация:
 
