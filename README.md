@@ -9,7 +9,7 @@
 
 ## My CV 
 
-[Резюме](https://hh.ru/resume/2caef331ff040c6b990039ed1f644c6b70474d)
+[Резюме HH.ru](https://hh.ru/resume/2caef331ff040c6b990039ed1f644c6b70474d)
 
 ## Портфолио 
 - Тестовая документация
