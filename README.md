@@ -18,7 +18,7 @@
   -  [Mind maps](https://miro.com/app/board/uXjVMWozn5I=/)
   -  [Баг-репорты](https://rykovart.youtrack.cloud/issues)
 - Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
+  -  [Чек-лист API(проверка ручек)](https://docs.google.com/spreadsheets/d/1z_H5FV5XegcPmAJvHJn74Y_HbRhTWp6hM2OuOq9OSBM/edit?usp=sharing)
 - SQL запросы 
   -  [Название проектв](https://ссылочку_сюда)
   
