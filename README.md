@@ -13,10 +13,10 @@
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Чек-листы](https://docs.google.com/spreadsheets/d/117YsXiT_izE-tmMD_YALrRILc-izpkUf6nKpBDym32M/edit#gid=858845234)
+  -  [Тест-кейсы](https://docs.google.com/spreadsheets/d/1aO9o5BvK52HVGfJ5-_L-oHvsLSFE50Hxd83OgO-obG8/edit?usp=sharing)
+  -  [Mind maps](https://miro.com/app/board/uXjVMWozn5I=/)
+  -  [Баг-репорты](https://rykovart.youtrack.cloud/issues)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
 - SQL запросы 
@@ -24,7 +24,6 @@
   
 
 ## Инструменты и технологии
-Блок для инструментов. Вы можете использовать мои иконки или создать папку у себя в проекте
 
 
 <p align="left">
